@@ -1,4 +1,6 @@
-[轉角遇到愛-校內112-2 生成式AI自主學習專題競賽 優選](https://www.youtube.com/watch?v=k97PDFbfRPI&t=28s)
+[轉角遇到愛-校內112-2 生成式AI自主學習專題競賽 優選]
+
+[操作示範影片]((https://www.youtube.com/watch?v=k97PDFbfRPI&t=28s)
 
 生成式AI應用 
 
