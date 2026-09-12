@@ -253,7 +253,7 @@ function generateMaze(width, height) {
 function drawMaze(maze) {
     const canvas = document.getElementById('mazeCanvas');
     const ctx = canvas.getContext('2d');
-    const cellSize = 15; /*20改15*/
+    const cellSize = 12; /*20改15*/
     canvas.width = maze[0].length * cellSize;
     canvas.height = maze.length * cellSize;
 
