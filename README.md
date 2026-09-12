@@ -1,4 +1,5 @@
 #[轉角遇到愛-校內112-2 生成式AI自主學習專題競賽 優選](https://www.youtube.com/watch?v=k97PDFbfRPI&t=28s)
+
 生成式AI應用 
 
 1. ChatGPT｜靈感發想、文案生成、程式開發協作
