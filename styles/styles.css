@@ -70,10 +70,14 @@ body {
     display: block;
 
     /*adjust*/
-    max-width: 100vw;
+    /*max-width: 100vw;
     max-height: calc(100dvh - 100px);
 
     width: auto;
+    height: auto;
+
+    margin: 0 auto;*/
+    width: min(100vw, calc(100dvh - 160px));
     height: auto;
 
     margin: 0 auto;
@@ -97,13 +101,19 @@ body {
 }
 
 #controls {
-    position: fixed;
+    /*position: fixed;
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
     flex-direction: column;
+    align-items: center;*/
+    display: flex;
+    flex-direction: column;
     align-items: center;
+
+    margin-top: 10px;
+}
 }
 
 #controls button {
